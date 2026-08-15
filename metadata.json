@@ -1,0 +1,6 @@
+{
+  "name": "L'ÉLITE LUXE",
+  "description": "Maison de Luxe - E-commerce de Haute Couture, Parfums et Joaillerie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
